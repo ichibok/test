@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">training</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="connectButton">Connect</string>
+    <string name="welcome">Welcome !</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="buttonCreation">Creation</string>
+    <string name="dateTextView">Date</string>
+    <string name="numberTextView">Number</string>
+    <string name="supplierTextView">Supplier</string>
+    <string name="amountTextView">Amount</string>
+    <string name="title_activity_create_invoice">CreateInvoiceActivity</string>
+    <string name="numberText">Number</string>
+    <string name="supplierText">Supplier</string>
+    <string name="amountText">Amount</string>
+    <string name="okButton">OK</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="numberHint">Number</string>
+    <string name="supplierHint">Supplier</string>
+    <string name="amountHint">Amount</string>
+
+</resources>
